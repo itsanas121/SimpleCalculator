@@ -14,4 +14,4 @@
 ## كيفية التشغيل
 1. استنساخ المستودع:
    ```bash
-   git clone https://github.com/itsanas121/SimpleCalculator.git
+   git clone https://github.com/itsanas121/simpleCalculator.git
